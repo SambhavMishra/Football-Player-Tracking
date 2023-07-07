@@ -4,7 +4,7 @@ Hello, this project detects and tracks the players, audience, and the ball in a 
 
 The results of the analysis were as follows:
 
-<div style="height: 800px">
+<div style="height: 8000px">
   <img src="https://github.com/SambhavMishra/Football-Player-Tracking/blob/8d17c5032abd0387132205c14549804d909e6ed0/results.png" alt="Results"/>
   <div>
     <div>
